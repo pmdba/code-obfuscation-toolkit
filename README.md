@@ -1,0 +1,2 @@
+# code-obfuscation-toolkit
+The code_obfuscation_toolkit package allows you to obfuscate the source code of a variety of stored programs, including procedures, functions, package bodies, and type bodies. When wrapping an object, all comments and line breaks are also removed, to further obfuscate the original code. Objects can be wrapped or unwrapped individually, by type within a schema, or by schema.
